@@ -100,4 +100,4 @@
 
 <body>
 
-</html># mi_tienda
+</html>
